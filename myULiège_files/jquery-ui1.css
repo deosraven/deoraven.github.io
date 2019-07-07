@@ -1,0 +1,17 @@
+.ui-accordion-header.ui-state-active,
+.ui-accordion-header.ui-state-active:hover {
+	background: #006f7b;
+	color: white;
+	font-weight: bold;
+}
+
+.ui-state-active .ui-accordion-header-icon {
+	background-image: url("images/ui-icons_ffffff_256x240.png");
+}
+
+.ui-accordion .ui-widget-content, 
+.ui-accordion-header.ui-state-active, 
+.ui-accordion .ui-accordion-header.ui-state-default,
+.ui-accordion-header.ui-state-active:hover {
+	border-color: #006f7b;
+}
